@@ -1,8 +1,8 @@
 # RegexRename
 
-This is a portable bulk file renamer I developed with C++ and Qt in about 500 lines of code.
+This is a portable Windows bulk file renamer I developed with C++ and Qt in about 500 lines of code. Just unpack the zip file anywhere and double click the executable to get started.
 
-Sometimes you have a lot of files that need to be renamed, like when you download photos from your camera or need to clean up your music library. This is a no-nonsense tool that uses the power of Regular Expressions (Regex) to make this easy. To start using, you should know how to use Regular Expressions. [Basic Concepts](https://en.wikipedia.org/wiki/Regular_expression#Basic_concepts) and [Syntax](https://en.wikipedia.org/wiki/Regular_expression#Syntax) are good places to start.
+Sometimes you have a lot of files that need to be renamed, like when you download photos from your camera or need to clean up your music library. This is a no-nonsense tool that uses the power of Regular Expressions (Regex) to make this easy. You should know how to use Regular Expressions. [Basic Concepts](https://en.wikipedia.org/wiki/Regular_expression#Basic_concepts) and [Syntax](https://en.wikipedia.org/wiki/Regular_expression#Syntax) are good places to start.
 
 ## Example #1: Photos
 I was looking through some old hard drives and found folders full of old photos. For the screenshots I limited the example to a few files, but it easily handled the actual directories.
